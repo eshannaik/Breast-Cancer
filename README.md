@@ -16,3 +16,5 @@ ________________________________________________________________________________
     iv) Logistic Regression
     v) Perceptron
     vi) Random Forest Classifier
+    
+#### The project compares these models using accuracy score and uses a bar chart to visualize and compare the accuracy scores of the models
